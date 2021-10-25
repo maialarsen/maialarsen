@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maialarsen
-- 👀 I’m interested in coding, music, and 
+- 👀 I’m interested in coding, music, and games
 - 🌱 I’m currently learning full stack development and Springboot
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: email - maialarsen12@gmail.com
